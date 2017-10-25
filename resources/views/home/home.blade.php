@@ -10,7 +10,7 @@
     <br>
 
     <div class="container gap">
-        <p class="text-center text-justify medium-font">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, quas voluptate. Atque beatae earum harum ipsa natus, quas rerum saepe voluptas. Blanditiis commodi culpa dignissimos eligendi eos, est facere, illum necessitatibus nemo odio qui quibusdam rerum soluta tempora temporibus vel veritatis. Architecto consequatur corporis, eaque esse excepturi, facilis harum iure laboriosam maiores nam nostrum obcaecati odit, quibusdam rem repudiandae saepe tempore voluptates? A, alias architecto asperiores dicta dolore explicabo itaque iure maxime mollitia possimus provident quaerat quasi qui quia recusandae vel voluptas! Assumenda consequatur dolore ducimus ipsa ipsam labore modi neque numquam obcaecati sequi? Illum iste odit quas quo tempore!</p>
+        <p class="text-center text-justify medium-font">Lorem iHellos rerum saepe voluptas. Blanditiis commodi culpa dignissimos eligendi eos, est facere, illum necessitatibus nemo odio qui quibusdam rerum soluta tempora temporibus vel veritatis. Architecto consequatur corporis, eaque esse excepturi, facilis harum iure laboriosam maiores nam nostrum obcaecati odit, quibusdam rem repudiandae saepe tempore voluptates? A, alias architecto asperiores dicta dolore explicabo itaque iure maxime mollitia possimus provident quaerat quasi qui quia recusandae vel voluptas! Assumenda consequatur dolore ducimus ipsa ipsam labore modi neque numquam obcaecati sequi? Illum iste odit quas quo tempore!</p>
         <p>Some more text here boi</p>
     </div>
 
