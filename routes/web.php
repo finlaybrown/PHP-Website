@@ -17,4 +17,5 @@ Route::get('/gallery', 'GalleryController@gallery');
 Route::get('/contact', 'ContactController@contact');
 Route::get('/submit', 'ContactController@submitForm')->name('submit_form');
 Route::post('/submit', 'ContactController@submitForm')->name('submit_form');
-Route::get('/login', 'LoginController@login');
+Route::get('/login', 'LoginController@load');
+Route::post('/login', 'LoginController@login')->name('log_in');

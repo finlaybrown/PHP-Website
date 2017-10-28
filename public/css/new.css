@@ -42,6 +42,10 @@ nav {
     font-size: 20px;
 }
 
+div {
+    margin: 0;
+}
+
 .navbar {
     margin-bottom: 0;
     padding-bottom: 0;
@@ -120,4 +124,25 @@ nav {
     padding: 10px 40px 60px;
     margin: 10px 0px 60px;
     border: 1px solid GREY;
+}
+
+.img-gallery {
+    object-fit: cover;
+    width:230px;
+    height:230px;
+}
+
+.thumb1 {
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    float: left;
+}
+
+.thumb2 {
+    width: 1000px;
+    height: 1000px;
+    float: none;
+    position: relative;
+    top: 50%;
 }

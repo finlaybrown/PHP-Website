@@ -1,9 +1,11 @@
 @extends('layouts.app')
 @section('content')
     <div class="container">
+
+
         <div class="col-md-5">
             <div class="form-area">
-                <form action="" role="form" method="post">
+                <form action="{{route('log_in')}}" role="form" method="post">
                     <br style="clear:both">
                     <h3 style="margin-bottom: 25px; text-align: center;">Login</h3>
                     <div class="form-group">
@@ -18,6 +20,8 @@
                 </form>
             </div>
         </div>
+
+
         <div class="col-md-5 offset-2">
             <div class="form-area">
                 <form action="" role="form" method="post">
